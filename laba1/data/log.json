@@ -1,0 +1,200 @@
+[
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-25 12:13:35",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-09-25 12:13:35",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 12:13:35",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-25 12:15:39",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-09-25 12:15:39",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 12:15:39",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-25 13:00:05",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-09-25 13:00:05",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 13:00:05",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-25 10:07:07 UTC",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-09-25 10:07:07 UTC",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 10:07:07 UTC",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "success",
+        "timestamp": "2026-09-25 10:08:07 UTC",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-09-25 10:08:07 UTC",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 10:08:07 UTC",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-10-02 10:32:19 UTC",
+        "args": [
+            "alice_sec",
+            "SecureP@ss123456"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "alice_sec",
+        "result": "failure",
+        "timestamp": "2026-10-02 10:32:19 UTC",
+        "args": [
+            "alice_sec",
+            "WrongPassword!123"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ghost_user",
+        "result": "failure",
+        "timestamp": "2026-10-02 10:32:19 UTC",
+        "args": [
+            "ghost_user",
+            "SomeSecret#12345"
+        ],
+        "kwargs": {}
+    }
+]
